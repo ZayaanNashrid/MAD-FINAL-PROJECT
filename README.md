@@ -7,6 +7,10 @@ Developed by: Zayaan Nashird(011161127)
 
 Language: Java, XML
 
+Note: In case the commits do not work because of an error on my part, I've provided a link to my google drive with the latest committed version of the project below:
+
+Drive link:
+
 # Start Screen
 This is the start screen. It's a simple activity that has three buttons. The play button that starts the main game, the score button that takes the player to a screen showing all the scores(as of yet incomplete), and an exit button. The exit button is simple, so I didn't waste time implementing it.
 
