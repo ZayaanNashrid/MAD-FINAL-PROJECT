@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GeneratorRoomFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       android:orientation="vertical">
+
+       <TextView
+           android:id="@+id/GeneratorRoomTextView"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:gravity="center"
+           android:text="@string/GeneratorRoomText"/>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="center"
+           android:orientation="horizontal">
+
+           <Button
+               android:id="@+id/GeneratorRoomStopGeneratorButton"
+               android:layout_width="170dp"
+               android:layout_height="wrap_content"
+               android:text="@string/GeneratorRoomButton1"
+               android:layout_marginRight="10dp"/>
+
+           <Button
+               android:id="@+id/GeneratorRoomLeaveButton"
+               android:layout_width="170dp"
+               android:layout_height="wrap_content"
+               android:text="@string/GeneratorRoomButton2"/>
+
+
+       </LinearLayout>
+
+
+   </LinearLayout>
+
+
+
+</FrameLayout>

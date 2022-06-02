@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ProjectFinal</string>
+
+    <!-- Home Screen -->
+    <string name="HomeScreen">Welcome to Point and Click Adventure Game</string>
+    <string name="HomeScreenButton1">PLAY</string>
+    <string name="HomeScreenButton2">SCORE</string>
+    <string name="HomeScreenButton3">EXIT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- For MainGameScreen Use -->
+
+    <!-- Main Game Screen Fragment 1 -->
+    <string name="MainGameScreenFragment1">You wake up in a dark room. Your eyes can\'t make out anything. However, after some time, you can begin to make some shapes out. Beside you is a table. What do you do\?</string>
+    <string name="MainGameScreenFragment1Button1">Search The Table.</string>
+
+    <!-- Main Game Screen Fragment 2 -->
+    <string name="MainGameScreenFragment2">After a clumsy search in the dark, you manage to find a small candle and a lighter. Naturally, you fiddle long enough to light the candle. Now, you look around again. The room is cramped. Around you, there is a closet and a door. \n\nWhat do you do?</string>
+    <string name="MainGameScreenFragment2Button1">Search The Closet</string>
+    <string name="MainGameScreenFragment2Button2">Check the door</string>
+
+    <!-- Entering Main Hallway -->
+    <string name="EnteringMainHallway">The door opens with a small creak and you exit through it.</string>
+    <string name="EnteringHallwayProceedButton">Proceed</string>
+
+    <!-- Main Hallway -->
+    <string name="MainHallway">You enter the main hallway of the place. It seems dilapidated. After checking around, you find three doors.</string>
+    <string name="MainHallwayMainDoor">Go through the main door</string>
+    <string name="MainHallwayRustyDoor">Go through the rusty door</string>
+    <string name="MainHallwayElectricDoor">Go through the ornate door</string>
+
+    <!-- Generator Room-->
+    <string name="GeneratorRoomText">Upon opening the rusty door, you smell a myriad of scents. Most prominent is that of oil. Lighting your lighter reveals a generator inside. It is running.</string>
+    <string name="GeneratorRoomButton1">Stop Generator</string>
+    <string name="GeneratorRoomButton2">Leave</string>
+
+
+    <!-- Ornate Room -->
+    <string name="OrnateRoomText">You enter a very well kept room. There are many decorations. What do you do?</string>
+    <string name="OrnateRoomButton1">Search the Shelves</string>
+    <string name="OrnateRoomButton2">Search the Cupboards</string>
+
+    <!-- GAME OVER -->
+    <string name="GameOverText">You have Died</string>
+    <string name="GameOverButton">Proceed</string>
+
+    <string name="ResultScreenTextString">SCORE: 0</string>
+
+</resources>
